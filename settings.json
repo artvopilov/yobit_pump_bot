@@ -1,0 +1,10 @@
+{
+  "trade": {
+    "key": "",
+    "secret": ""
+  },
+  "urls": {
+    "basicTrade": "https://yobit.net/tapi",
+    "basicPublic": "https://yobit.net/api/3/"
+  }
+}
